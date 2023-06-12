@@ -2,6 +2,7 @@
 
 Dieses Repository enthält den Python-Code für ein einfaches Pacman-Spiel, das mithilfe der Pygame-Bibliothek erstellt wurde. Es wurde als Teil eines YouTube-Tutorials erstellt, das auf [The Morpheus Tutorials](https://www.youtube.com/user/themorpheus407/) zu finden ist.
 
+Custom Level für ChatGPT-Pacman von TheMorpheus, wenn Sie das Spiel bereits bei TheMorpheus heruntergeladen haben, reicht es auch aus, einfach die Level,py in das Spielverzeichnis zu kopieren.
 ![Pacman Screenshot](./screenschot-customlevel.png)
 
 ## Anforderungen
