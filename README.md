@@ -2,7 +2,7 @@
 
 Dieses Repository enthält den Python-Code für ein einfaches Pacman-Spiel, das mithilfe der Pygame-Bibliothek erstellt wurde. Es wurde als Teil eines YouTube-Tutorials erstellt, das auf [The Morpheus Tutorials](https://www.youtube.com/user/themorpheus407/) zu finden ist.
 
-![Pacman Screenshot](./screenshot.png)
+![Pacman Screenshot](./screenschot-customlevel.png)
 
 ## Anforderungen
 
